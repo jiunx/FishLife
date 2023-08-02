@@ -2,6 +2,8 @@
 
 This project simulates biological evolution utilizing genetic algorithms and neural networks to emulate the eyes and brains of fish. It's written in Rust and compiled to WebAssembly (Wasm) to run in web browsers.
 
+![Aug-02-2023 15-04-03.gif](Aug-02-2023%2015-04-03.gif)
+
 ## Language Versions
 
 - [简体中文 (Simplified Chinese)](README.zh-hans.md)
