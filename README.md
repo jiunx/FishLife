@@ -27,7 +27,7 @@ Ensure you have both Rust and wasm-pack installed. If not, please refer to the [
 Build the project using:
 
 ```bash
-wasm-pack build --target web
+wasm-pack build libs/simulation-wasm
 ```
 
 ### Running
